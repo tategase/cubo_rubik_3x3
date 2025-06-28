@@ -1,0 +1,27 @@
+# Archivos binarios
+*.out
+*.exe
+*.o
+*.obj
+
+# Archivos de respaldo o temporales
+*~
+*.swp
+*.bak
+
+# Directorios de compilación
+/build/
+/bin/
+/dist/
+
+# Archivos generados por editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ejecutable principal (si lo llamás igual que tu proyecto)
+rubik-solver
