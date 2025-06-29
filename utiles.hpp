@@ -13,14 +13,4 @@ void rellenar_matriz(int [N][N]);
 
 void mostrar_matriz(int [N][N]);
 
-void rotar_matriz_h(int [N][N]);
-
-void rotar_matriz_ah(int [N][N]);
-
-void mover_RL(int [N][N], int [N][N], int [N][N], int [N][N], int);
-
-void mover_UD(int [N][N], int [N][N], int [N][N], int [N][N], int);
-
-void mover_FB(int [N][N], int [N][N], int [N][N], int [N][N], int);
-
 #endif

@@ -1,7 +1,7 @@
 #include <iostream>
 #include "movimientos.hpp"
 #include "utiles.hpp"
-
+#include "auxiliares.hpp"
 using namespace std;
 
 void R(int carab[N][N], int carav[N][N], int caraam[N][N], int caraaz[N][N], int caran[N][N]){

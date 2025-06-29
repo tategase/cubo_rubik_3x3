@@ -23,5 +23,6 @@
 .DS_Store
 Thumbs.db
 
-# Ejecutable principal (si lo llamás igual que tu proyecto)
+# Ejecutable principal
 rubik-solver
+rubik
